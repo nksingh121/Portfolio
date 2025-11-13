@@ -39,7 +39,7 @@ This portfolio reflects a strong focus on technical skills and simplicity in web
 
 - Current Role: Associate at Cognizant (AIA-MSFT)
 - Job Role: Data Analyst
-- Experience: 2 years and 3 months
+- Experience: 3 years and 5+ months
 - Location: Bengaluru, India
 
 ## Skills
